@@ -1,0 +1,13 @@
+.idea/
+*.iml
+node_modules/
+dist/
+.kubeconfig
+.env-config
+coverage/
+test-report.xml
+.npmrc
+.vscode/
+output/
+
+catalog.yaml
